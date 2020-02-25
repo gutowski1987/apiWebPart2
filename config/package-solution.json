@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "landingPagev2",
+    "id": "ac23e67f-1234-4c88-a323-db5bb81cabd1",
+    "version": "1.2.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/landingPagev2.sppkg"
+  }
+}
